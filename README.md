@@ -50,3 +50,14 @@ I’m also experienced in managing databases efficiently using <b>MySQL</b>. In 
 
 ---
 
+<h2 align="left">Play game with me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lukmannn12/Lukmannn12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lukmannn12/Lukmannn12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lukmannn12/Lukmannn12/output/pacman-contribution-graph.svg">
+</picture>
+
+###
